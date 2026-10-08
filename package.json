@@ -22,11 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arach/pi-scout.git"
+    "url": "git+https://github.com/oscout/pi-scout.git"
   },
-  "homepage": "https://github.com/arach/pi-scout",
+  "homepage": "https://github.com/oscout/pi-scout",
   "bugs": {
-    "url": "https://github.com/arach/pi-scout/issues"
+    "url": "https://github.com/oscout/pi-scout/issues"
   },
   "keywords": [
     "scout",
